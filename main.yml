@@ -4,7 +4,6 @@
   become_user: root
   serial: 2
 
-
   tasks:
 
     # this task will upgrade/install the rpm's if application is stopped
